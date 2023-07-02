@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppKioskUserAdmin", "WpfAppKioskUserAdmin\WpfAppKioskUserAdmin.csproj", "{BB444DBD-7841-484F-8A3E-8AF4268CC741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryEntity", "..\WpfAppQueueManagementUser\ClassLibraryEntity\ClassLibraryEntity.csproj", "{46E857F4-C101-4CF0-BB4B-57BBF34896E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB444DBD-7841-484F-8A3E-8AF4268CC741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB444DBD-7841-484F-8A3E-8AF4268CC741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB444DBD-7841-484F-8A3E-8AF4268CC741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB444DBD-7841-484F-8A3E-8AF4268CC741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E857F4-C101-4CF0-BB4B-57BBF34896E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E857F4-C101-4CF0-BB4B-57BBF34896E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E857F4-C101-4CF0-BB4B-57BBF34896E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E857F4-C101-4CF0-BB4B-57BBF34896E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493EC2F1-CC80-4F51-9B58-AAA70E36E9AA}
+	EndGlobalSection
+EndGlobal
